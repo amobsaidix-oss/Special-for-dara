@@ -1,5 +1,5 @@
 const CONFIG = {
-    mainQuestion: "Will you be my Lovers?",
+    mainQuestion: "Will you be my Girlfriends?",
     subQuestion: "Please say yes ",
     yesButton: "YES",
     noButton: "NO",
